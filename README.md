@@ -1,2 +1,2 @@
-# Play_With_Algorithm
+# Play_With_Interview
 course summary
